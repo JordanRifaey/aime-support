@@ -47,10 +47,11 @@ This privacy notice for SoftLnk LLC (**"I"**, **"me"** or **"my"**), describes h
 
 ### Personal information you disclose to me
 
-***In Short:** I collect personal information that you provide to me.*
+* **The photos that you upload of your face are saved to our servers for 30 days to process your image. After 30 days they are automatically deleted from our servers. We do not share these photos with any third parties. It is only used for the purpose of training the AI model to generate your AI portraits/avatars.**
 
 I collect personal information that you voluntarily provide to me when you express an interest in obtaining information about me or my products and Services, when you participate in activities on the Services, or otherwise when you contact me.
 
+***In Short:** I collect personal information that you provide to me.*
 **Personal Information Provided by You.** The personal information that I collect depends on the context of your interactions with me and the Services, the choices you make, and the products and features you use. The personal information I collect may include the following:
 - **photos containing face data**
 
