@@ -47,7 +47,7 @@ This privacy notice for SoftLnk LLC (**"I"**, **"me"** or **"my"**), describes h
 
 ### Personal information you disclose to me
 
-* **The photos that you upload of your face are saved to our servers for 30 days to process your image. After 30 days they are automatically deleted from our servers. We do not share these photos with any third parties. It is only used for the purpose of training the AI model to generate your AI portraits/avatars.**
+* **The photos that you upload of your face are saved to our servers for 30 days to process your image. After 30 days they are automatically deleted from our servers. We do not share these photos with any third parties. It is only used for the purpose of training the AI model to generate your AI portraits/avatars. You may contact us at aimeavatargenerator@gmail.com to delete all of your data at any time.**
 
 I collect personal information that you voluntarily provide to me when you express an interest in obtaining information about me or my products and Services, when you participate in activities on the Services, or otherwise when you contact me.
 
