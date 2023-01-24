@@ -71,6 +71,8 @@ I automatically collect certain information when you visit, use, or navigate the
 The information I collect includes:
 - *Log and Usage Data.* Log and usage data is service-related, diagnostic, usage, and performance information my servers automatically collect when you access or use my Services and which I record in log files. Depending on how you interact with me, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called "crash dumps"), and hardware settings).
 
+We collect the following categories of your personal information and may sell it to third parties: identifiers, commercial information, internet or other electronic network activity information, geolocation data, and inferences drawn from these categories.
+
 ## 2. HOW DO I PROCESS YOUR INFORMATION?
 
 ***In Short:** I process your information to provide, improve, and administer my Services, communicate with you, for security and fraud prevention, and to comply with law. I may also process your information for other purposes with your consent.*
